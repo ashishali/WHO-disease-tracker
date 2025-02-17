@@ -1,0 +1,140 @@
+Disease Name,Medicine Name,Standard Industry Number (SIN),Company,Active Ingredient Name
+Influenza,Tamiflu,0004-0800-85,Roche,Oseltamivir Phosphate
+Common Cold,Zicam,62750-005-10,Matrixx Initiatives,Zincum Gluconicum
+Eczema,Elidel,0078-0420-15,Novartis,Pimecrolimus
+Asthma,ProAir HFA,59310-579-22,"Teva Respiratory, LLC",Albuterol Sulfate
+Hyperthyroidism,Tapazole,0085-0076-01,Pfizer,Methimazole
+Allergic Rhinitis,Claritin,11523-7235,Bayer,Loratadine
+Anxiety Disorders,Xanax,0009-0029-07,Pfizer,Alprazolam
+Diabetes,Glucophage,0006-5429-31,Bristol-Myers Squibb,Metformin Hydrochloride
+Gastroenteritis,Imodium,50580-485-16,Johnson & Johnson,Loperamide Hydrochloride
+Pancreatitis,Creon,0002-0805-20,AbbVie,Pancrelipase
+Rheumatoid Arthritis,Humira,0074-4380-02,AbbVie,Adalimumab
+Depression,Prozac,0004-0800-85,Eli Lilly,Fluoxetine Hydrochloride
+Liver Cancer,Nexavar,0003-2077-20,Bayer,Sorafenib Tosylate
+Stroke,Plavix,63653-1178-05,Bristol-Myers Squibb,Clopidogrel Bisulfate
+Urinary Tract Infection,Cipro,0009-7911-02,Bayer,Ciprofloxacin Hydrochloride
+Dengue Fever,Dengvaxia (vaccine),49281-0419-10,Sanofi,Dengue Vaccine (live attenuated)
+Hepatitis,Harvoni,0007-6580-30,Gilead Sciences,Ledipasvir and Sofosbuvir
+Kidney Cancer,Sutent,0004-0112-50,Pfizer,Sunitinib Malate
+Migraine,Imitrex,0024-5893-83,GlaxoSmithKline,Sumatriptan Succinate
+Muscular Dystrophy,Emflaza,73129-0001-01,Marathon Pharma,Deflazacort
+Sinusitis,Augmentin,0002-4335-02,GlaxoSmithKline,Amoxicillin and Clavulanate Potassium
+Ulcerative Colitis,Remicade,57894-030-01,Janssen Biotech,Infliximab
+Bipolar Disorder,Lithium Carbonate,0009-0003-01,Various Manufacturers,Lithium Carbonate
+Bronchitis,Mucinex,63824-100-60,Reckitt Benckiser,Guaifenesin
+Cerebral Palsy,Baclofen,60505-0155-04,Upsher-Smith,Baclofen
+Colorectal Cancer,Avastin,50242-006-10,Genentech,Bevacizumab
+Hypertensive Heart Disease,Norvasc,0069-1530-68,Pfizer,Amlodipine Besylate
+Multiple Sclerosis,Copaxone,68546-326-02,Teva Pharmaceuticals,Glatiramer Acetate
+Myocardial Infarction,Aspirin,0054-8207-25,Bayer,Acetylsalicylic Acid (Aspirin)
+Osteoporosis,Fosamax,0006-0070-31,Merck & Co.,Alendronate Sodium
+Pneumonia,Levaquin,25010-110-01,Janssen Pharmaceuticals,Levofloxacin
+Atherosclerosis,Lipitor,0009-5141-01,Pfizer,Atorvastatin Calcium
+Chronic Obstructive Pulmonary Disease,Spiriva,0597-0071-02,Boehringer Ingelheim,Tiotropium Bromide
+Epilepsy,Keppra,50474-588-01,UCB Pharma,Levetiracetam
+Hypertension,Norvasc,0069-1530-68,Pfizer,Amlodipine Besylate
+Obsessive-Compulsive Disorder,Zoloft,0007-6871-03,Pfizer,Sertraline
+Psoriasis,Enbrel,58406-425-04,Amgen,Etanercept
+Rubella,M-M-R II (vaccine),0006-4681-41,Merck & Co.,"Measles, Mumps, and Rubella Virus Vaccine"
+Cirrhosis,Lasix,0037-0310-01,Sanofi,Furosemide
+Conjunctivitis (Pink Eye),Polytrim,0004-0201-01,Allergan,Polymyxin B and Trimethoprim
+Liver Disease,Ursodiol,67877-0007-01,Lannett Company,Ursodiol
+Malaria,Coartem,49281-0562-01,Novartis,Artemether and Lumefantrine
+Spina Bifida,Folic Acid (supplement),00591-0410-01,Various Manufacturers,Folic Acid
+Kidney Disease,Renvela,58468-0130-10,Sanofi,Sevelamer Carbonate
+Osteoarthritis,Celebrex,0002-0800-85,Pfizer,Celecoxib
+Klinefelter Syndrome,AndroGel,0002-1205-31,AbbVie,Testosterone Gel
+Acne,Accutane,0085-1404-02,Roche,Isotretinoin
+Brain Tumor,Temodar,0085-1327-01,Merck & Co.,Temozolomide
+Cystic Fibrosis,Trikafta,51167-850-01,Vertex Pharmaceuticals,"Elexacaftor, Tezacaftor, and Ivacaftor"
+Glaucoma,Lumigan,0002-7223-01,Allergan,Bimatoprost
+Rabies,RabAvert (vaccine),49281-0180-05,GlaxoSmithKline,Rabies Virus Vaccine
+Chickenpox,Varivax (vaccine),0006-4827-00,Merck & Co.,Varicella Virus Vaccine
+Coronary Artery Disease,Lipitor,0009-5141-01,Pfizer,Atorvastatin Calcium
+"Eating Disorders (Anorexia, Bulimia)",Prozac,0004-0800-85,Eli Lilly,Fluoxetine Hydrochloride
+Fibromyalgia,Lyrica,0002-6180-30,Pfizer,Pregabalin
+Hemophilia,Advate,0944-3051-10,Takeda,Antihemophilic Factor
+Hypoglycemia,GlucaGen,0009-0469-01,Novo Nordisk,Glucagon
+Lymphoma,Rituxan,50242-051-21,Genentech,Rituximab
+Tuberculosis,Rifadin,0004-0112-50,Sanofi,Rifampin
+Lung Cancer,Keytruda,0006-3039-02,Merck & Co.,Pembrolizumab
+Hypothyroidism,Synthroid,66794-625-30,AbbVie,Levothyroxine Sodium
+Autism Spectrum Disorder (ASD),Risperdal,50458-350-01,Janssen Pharmaceuticals,Risperidone
+Crohn's Disease,Humira,0074-4380-02,AbbVie,Adalimumab
+Hyperglycemia,Metformin (generic),00173-0377-55,Multiple Manufacturers,Metformin Hydrochloride
+Melanoma,Opdivo,0003-3772-12,Bristol-Myers Squibb,Nivolumab
+Ovarian Cancer,Carboplatin,00186-0980-31,Various Manufacturers,Carboplatin
+Turner Syndrome,Norditropin,0169-3705-01,Novo Nordisk,Somatropin (rDNA origin)
+Zika Virus,Symptomatic management,-,-,"Analgesics, Fluids (no specific antiviral treatment)"
+Cataracts,Pred Forte (eye drops),0003-0108-25,Allergan,Prednisolone Acetate
+Pneumocystis Pneumonia (PCP),Bactrim,00409-7331-01,Pfizer,Sulfamethoxazole and Trimethoprim
+Scoliosis,Pain Management (NSAIDs),-,Various Manufacturers,Ibuprofen
+Sickle Cell Anemia,Adakveo,0007-5301-01,Novartis,Crizanlizumab
+Tetanus,Tetanus Toxoid Vaccine,49281-0286-05,Sanofi,Tetanus Toxoid
+Anemia,Ferrous Sulfate,00143-9888-01,Various Manufacturers,Ferrous Sulfate
+Cholera,Vaxchora (vaccine),0004-0400-01,Emergent BioSolutions,Cholera Vaccine (live attenuated)
+Endometriosis,Orilissa,0006-4343-03,AbbVie,Elagolix Sodium
+Sepsis,Broad-Spectrum Antibiotics,-,Various Manufacturers,Depends on infection source
+Sleep Apnea,Positive Airway Pressure (PAP) therapy,-,-,N/A
+Down Syndrome,Symptomatic Management,-,-,Dependent on condition
+Ebola Virus,Ervebo (vaccine),0003-0782-01,Merck & Co.,Ebola Zaire Vaccine (live recombinant)
+Lyme Disease,Doxycycline,62559-153-01,Various Manufacturers,Doxycycline Hyclate
+Pancreatic Cancer,Abraxane,68817-136-50,Bristol-Myers Squibb,Paclitaxel Protein-Bound
+Pneumothorax,Symptomatic Management,-,-,"Oxygen Therapy, Chest Drainage"
+Appendicitis,Surgical Treatment Only,-,-,N/A
+Esophageal Cancer,Opdivo,0003-3772-12,Bristol-Myers Squibb,Nivolumab
+HIV/AIDS,Biktarvy,51167-385-01,Gilead Sciences,"Bictegravir, Emtricitabine, Tenofovir Alafenamide"
+Marfan Syndrome,Symptomatic Management,-,Various Manufacturers,"Beta-Blockers (e.g., Atenolol)"
+Parkinson's Disease,Sinemet,0054-3525-25,Merck & Co.,Carbidopa and Levodopa
+Hemorrhoids,Preparation H,0574-9000-16,Pfizer,Phenylephrine and Pramoxine
+Polycystic Ovary Syndrome (PCOS),Metformin,00173-0377-55,Multiple Manufacturers,Metformin Hydrochloride
+Systemic Lupus Erythematosus,Benlysta,49401-101-01,GlaxoSmithKline,Belimumab
+Typhoid Fever,Typhim Vi (vaccine),49281-0480-20,Sanofi,Typhoid Polysaccharide Vaccine
+Breast Cancer,Herceptin,50242-134-68,Genentech,Trastuzumab
+Measles,M-M-R II (vaccine),0006-4681-41,Merck & Co.,"Measles, Mumps, and Rubella Virus Vaccine"
+Osteomyelitis,Vancomycin,00409-2311-01,Pfizer,Vancomycin Hydrochloride
+Polio,Ipol (vaccine),49281-0860-10,Sanofi,Inactivated Poliovirus Vaccine
+Chronic Kidney Disease,Renvela,58468-0130-10,Sanofi,Sevelamer Carbonate
+Hepatitis B,Engerix-B (vaccine),58160-0820-52,GlaxoSmithKline,Hepatitis B Surface Antigen
+Prader-Willi Syndrome,Growth Hormone Therapy,-,Various Manufacturers,Somatropin (rDNA origin)
+Thyroid Cancer,Thyrogen,58933-7101-01,Genzyme Corporation,Thyrotropin Alfa
+Tuberculosis,Rifadin,0004-0112-50,Sanofi,Rifampin
+Chronic Sinusitis,Flonase,60505-0700-01,GlaxoSmithKline,Fluticasone Propionate
+Gout,Zyloprim,0006-1270-01,Prometheus Labs,Allopurinol
+Cervical Cancer,Gardasil (vaccine),0006-4045-41,Merck & Co.,Human Papillomavirus Vaccine
+Gallstones,Actigall,62559-135-01,Allergan,Ursodiol
+Tinnitus,Symptomatic Management,-,-,Dependent on underlying cause
+Shingles,Valtrex,0009-7265-01,GlaxoSmithKline,Valacyclovir Hydrochloride
+Cystitis,Macrobid,68382-0981-10,Alvogen,Nitrofurantoin
+Meningitis,Menactra (vaccine),49281-0589-15,Sanofi,Meningococcal Polysaccharide Vaccine
+Acute Lymphoblastic Leukemia (ALL),Erwinaze,0409-0900-01,Jazz Pharmaceuticals,Asparaginase Erwinia Chrysanthemi
+Anorexia Nervosa,Symptomatic Management,-,-,Nutritional Supplements
+Bulimia Nervosa,Prozac,0004-0800-85,Eli Lilly,Fluoxetine Hydrochloride
+Hemochromatosis,Deferasirox,0003-9303-11,Novartis,Deferasirox
+Keloids,Kenalog,0003-0293-21,Bristol-Myers Squibb,Triamcinolone Acetonide
+Bipolar II Disorder,Lamictal,0006-3259-31,GlaxoSmithKline,Lamotrigine
+Sarcoidosis,Prednisone,0054-0053-01,Multiple Manufacturers,Prednisone
+Lead Poisoning,Chemet,0006-0040-01,Sanofi,Succimer
+Osteoarthritis,Celebrex,0002-0800-85,Pfizer,Celecoxib
+Celiac Disease,Gluten-Free Diet,-,-,N/A (Dietary Management)
+Tinnitus,Symptomatic Management,-,-,Dependent on underlying cause
+Asperger Syndrome,Symptomatic Management,-,-,N/A (Behavioral Therapy Focused)
+Ichthyosis,AmLactin,49781-0245-35,Upsher-Smith,Ammonium Lactate
+Aplastic Anemia,Atgam,0008-3755-01,Pfizer,Antithymocyte Globulin
+Ovarian Cyst,Oral Contraceptives,-,Various Manufacturers,Ethinyl Estradiol and Progestin
+Laryngitis,Symptomatic Management,-,-,"N/A (Voice Rest, Hydration)"
+Stomach Cancer,Herceptin,50242-134-68,Genentech,Trastuzumab
+Lymphadenopathy,Symptomatic Management,-,-,Depends on underlying cause
+Hepatitis C,Harvoni,0007-6580-30,Gilead Sciences,Ledipasvir and Sofosbuvir
+Gallbladder Cancer,Gemzar,0002-7501-01,Eli Lilly,Gemcitabine
+Colon Cancer,Avastin,50242-006-10,Genentech,Bevacizumab
+Whipple Disease,Ceftriaxone,0409-7331-01,Pfizer,Ceftriaxone Sodium
+Prostate Cancer,Lupron Depot,0002-2510-01,AbbVie,Leuprolide Acetate
+Endometrial Cancer,Megace,0009-3777-01,Bristol-Myers Squibb,Megestrol Acetate
+Pancreatic Insufficiency,Creon,0002-0805-20,AbbVie,Pancrelipase
+Non-Hodgkin Lymphoma,Rituxan,50242-051-21,Genentech,Rituximab
+Preeclampsia,Magnesium Sulfate,63323-0352-01,Fresenius Kabi,Magnesium Sulfate
+Ovarian Cancer,Carboplatin,00186-0980-31,Various Manufacturers,Carboplatin
+Brain Cancer,Temodar,0085-1327-01,Merck & Co.,Temozolomide
+COVID-19,Remdesivir,61958-2901-01,Gilead Sciences,Remdesivir

@@ -1,0 +1,6 @@
+ID,Disease Type,Description
+VIRAL,Viral,"Diseases caused by viruses, infectious and often contagious."
+AUIMM,Autoimmune,Conditions where the immune system attacks the body's own cells.
+GENET,Genetic,Disorders caused by inherited or mutated genes.
+OTHER,Other,Diseases that don't fit into standard categories.
+BACTE,Bacterial,"Infections caused by harmful bacteria, treatable with antibiotics."

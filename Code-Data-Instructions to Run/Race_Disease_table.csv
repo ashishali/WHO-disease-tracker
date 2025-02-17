@@ -1,0 +1,139 @@
+Race_Code,Race_Description,Disease_ID,Disease_Name,Propensity_Value
+NHW  ,Native Hawaiian,1,Influenza,8
+HIS  ,Hispanic or Latino,2,Common Cold,8
+BLK  ,Black or African American,3,Eczema,3
+MID  ,Middle Eastern or North African,4,Asthma,2
+WHT  ,White,5,Hyperthyroidism,9
+ASN  ,Asian,6,Allergic Rhinitis,2
+PAI  ,Pacific Islander,7,Anxiety Disorders,8
+IND  ,Native American or Alaska Native,8,Diabetes,1
+MIR  ,Mixed Race,9,Gastroenteritis,9
+BLK  ,Black or African American,10,Pancreatitis,8
+ASN  ,Asian,11,Rheumatoid Arthritis,3
+HIS  ,Hispanic or Latino,12,Depression,1
+BLK  ,Black or African American,13,Liver Cancer,4
+ASN  ,Asian,14,Stroke,8
+OTH  ,Other,15,Urinary Tract Infection,10
+MID  ,Middle Eastern or North African,16,Dengue Fever,5
+IND  ,Native American or Alaska Native,17,Hepatitis,1
+PAI  ,Pacific Islander,18,Kidney Cancer,10
+MIR  ,Mixed Race,19,Migraine,10
+NHW  ,Native Hawaiian,20,Muscular Dystrophy,5
+PAI  ,Pacific Islander,21,Sinusitis,2
+WHT  ,White,22,Ulcerative Colitis,1
+IND  ,Native American or Alaska Native,23,Bipolar Disorder,4
+PAI  ,Pacific Islander,24,Bronchitis,5
+HIS  ,Hispanic or Latino,25,Cerebral Palsy,10
+NHW  ,Native Hawaiian,26,Colorectal Cancer,10
+MID  ,Middle Eastern or North African,27,Hypertensive Heart Disease,2
+WHT  ,White,28,Multiple Sclerosis,3
+ASN  ,Asian,29,Myocardial Infarction,2
+NHW  ,Native Hawaiian,30,Osteoporosis,2
+PAI  ,Pacific Islander,31,Pneumonia,10
+NHW  ,Native Hawaiian,32,Atherosclerosis,10
+ASN  ,Asian,33,Chronic Obstructive Pulmonary Disease,5
+NHW  ,Native Hawaiian,34,Epilepsy,3
+ASN  ,Asian,35,Hypertension,2
+NHW  ,Native Hawaiian,36,Obsessive-Compulsive Disorder,6
+HIS  ,Hispanic or Latino,37,Psoriasis,2
+NHW  ,Native Hawaiian,38,Rubella,7
+PAI  ,Pacific Islander,39,Cirrhosis,5
+PAI  ,Pacific Islander,40,Conjunctivitis (Pink Eye),9
+HIS  ,Hispanic or Latino,41,Liver Disease,2
+ASN  ,Asian,42,Malaria,5
+NHW  ,Native Hawaiian,43,Spina Bifida,6
+IND  ,Native American or Alaska Native,44,Kidney Disease,7
+ASN  ,Asian,45,Osteoarthritis,7
+NHW  ,Native Hawaiian,46,Klinefelter Syndrome,3
+BLK  ,Black or African American,47,Acne,7
+IND  ,Native American or Alaska Native,48,Brain Tumor,9
+IND  ,Native American or Alaska Native,49,Cystic Fibrosis,3
+PAI  ,Pacific Islander,50,Glaucoma,6
+HIS  ,Hispanic or Latino,51,Rabies,9
+ASN  ,Asian,52,Chickenpox,1
+PAI  ,Pacific Islander,53,Coronary Artery Disease,1
+PAI  ,Pacific Islander,54,"Eating Disorders (Anorexia, Bulimia)",6
+HIS  ,Hispanic or Latino,55,Fibromyalgia,5
+PAI  ,Pacific Islander,56,Hemophilia,1
+IND  ,Native American or Alaska Native,57,Hypoglycemia,1
+BLK  ,Black or African American,58,Lymphoma,10
+MIR  ,Mixed Race,59,Tuberculosis,6
+BLK  ,Black or African American,60,Lung Cancer,1
+WHT  ,White,61,Hypothyroidism,6
+HIS  ,Hispanic or Latino,62,Autism Spectrum Disorder (ASD),4
+PAI  ,Pacific Islander,63,Crohn's Disease,2
+NHW  ,Native Hawaiian,64,Hyperglycemia,6
+NHW  ,Native Hawaiian,65,Melanoma,6
+IND  ,Native American or Alaska Native,66,Ovarian Cancer,8
+BLK  ,Black or African American,67,Turner Syndrome,6
+NHW  ,Native Hawaiian,68,Zika Virus,4
+IND  ,Native American or Alaska Native,69,Cataracts,9
+BLK  ,Black or African American,70,Pneumocystis Pneumonia (PCP),5
+MID  ,Middle Eastern or North African,71,Scoliosis,6
+PAI  ,Pacific Islander,72,Sickle Cell Anemia,4
+MID  ,Middle Eastern or North African,73,Tetanus,1
+BLK  ,Black or African American,74,Anemia,6
+HIS  ,Hispanic or Latino,75,Cholera,5
+ASN  ,Asian,76,Endometriosis,1
+ASN  ,Asian,77,Sepsis,1
+WHT  ,White,78,Sleep Apnea,4
+NHW  ,Native Hawaiian,79,Down Syndrome,3
+IND  ,Native American or Alaska Native,80,Ebola Virus,7
+BLK  ,Black or African American,81,Lyme Disease,1
+OTH  ,Other,82,Pancreatic Cancer,9
+OTH  ,Other,83,Pneumothorax,4
+BLK  ,Black or African American,84,Appendicitis,7
+ASN  ,Asian,85,Esophageal Cancer,8
+MIR  ,Mixed Race,86,HIV/AIDS,6
+MIR  ,Mixed Race,87,Marfan Syndrome,8
+OTH  ,Other,88,Parkinson's Disease,8
+OTH  ,Other,89,Hemorrhoids,9
+WHT  ,White,90,Polycystic Ovary Syndrome (PCOS),5
+ASN  ,Asian,91,Systemic Lupus Erythematosus,3
+IND  ,Native American or Alaska Native,92,Typhoid Fever,6
+PAI  ,Pacific Islander,93,Breast Cancer,4
+WHT  ,White,94,Measles,10
+HIS  ,Hispanic or Latino,95,Osteomyelitis,8
+HIS  ,Hispanic or Latino,96,Polio,5
+BLK  ,Black or African American,97,Chronic Kidney Disease,6
+ASN  ,Asian,98,Hepatitis B,7
+WHT  ,White,99,Prader-Willi Syndrome,8
+BLK  ,Black or African American,100,Thyroid Cancer,8
+BLK  ,Black or African American,102,Chronic Sinusitis,1
+MIR  ,Mixed Race,103,Gout,5
+IND  ,Native American or Alaska Native,104,Cervical Cancer,6
+OTH  ,Other,105,Gallstones,10
+NHW  ,Native Hawaiian,106,Tinnitus,9
+IND  ,Native American or Alaska Native,107,Shingles,9
+WHT  ,White,108,Cystitis,1
+PAI  ,Pacific Islander,109,Meningitis,6
+NHW  ,Native Hawaiian,110,Acute Lymphoblastic Leukemia (ALL),6
+OTH  ,Other,111,Anorexia Nervosa,5
+MIR  ,Mixed Race,112,Bulimia Nervosa,1
+WHT  ,White,113,Hemochromatosis,5
+BLK  ,Black or African American,114,Keloids,10
+MID  ,Middle Eastern or North African,115,Bipolar II Disorder,7
+ASN  ,Asian,116,Sarcoidosis,7
+WHT  ,White,117,Lead Poisoning,8
+HIS  ,Hispanic or Latino,118,Osteoarthritis,2
+MID  ,Middle Eastern or North African,119,Celiac Disease,1
+PAI  ,Pacific Islander,120,Tinnitus,3
+MIR  ,Mixed Race,121,Asperger Syndrome,2
+IND  ,Native American or Alaska Native,122,Ichthyosis,6
+PAI  ,Pacific Islander,123,Aplastic Anemia,10
+NHW  ,Native Hawaiian,124,Ovarian Cyst,5
+IND  ,Native American or Alaska Native,125,Laryngitis,4
+WHT  ,White,126,Stomach Cancer,3
+NHW  ,Native Hawaiian,127,Lymphadenopathy,4
+OTH  ,Other,128,Hepatitis C,1
+BLK  ,Black or African American,129,Gallbladder Cancer,5
+MID  ,Middle Eastern or North African,130,Colon Cancer,2
+MIR  ,Mixed Race,131,Whipple Disease,5
+NHW  ,Native Hawaiian,132,Prostate Cancer,1
+PAI  ,Pacific Islander,133,Endometrial Cancer,7
+BLK  ,Black or African American,134,Pancreatic Insufficiency,8
+ASN  ,Asian,135,Non-Hodgkin Lymphoma,9
+BLK  ,Black or African American,136,Preeclampsia,6
+ASN  ,Asian,137,Ovarian Cancer,10
+HIS  ,Hispanic or Latino,138,Brain Cancer,3
+HIS  ,Hispanic or Latino,139,COVID-19,9

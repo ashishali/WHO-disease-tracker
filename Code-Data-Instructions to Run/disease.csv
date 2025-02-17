@@ -1,0 +1,134 @@
+diseaseid,diseasename,diseasetype,sourcediseasecd,intensitylevel
+1,Influenza,Viral,2,7
+2,Common Cold,Viral,,5
+3,Eczema,Autoimmune,37,6
+4,Asthma,Autoimmune,33,8
+5,Hyperthyroidism,Genetic,61,6
+6,Sinusitis,Other,,4
+7,Anxiety Disorders,Other,,6
+8,Diabetes,Other,,9
+9,Gastroenteritis,Bacterial,,7
+10,Pancreatitis,Other,,8
+11,Rheumatoid Arthritis,Autoimmune,45,6
+12,Depression,Other,,5
+13,Hepatitis C,Viral,,8
+14,Myocardial Infarction (Heart Attack),Other,,10
+15,Urinary Tract Infection,Bacterial,108,6
+16,Dengue Fever,Viral,,8
+18,Kidney Cancer,Other,,7
+19,Migraine,Other,,6
+20,Muscular Dystrophy,Genetic,,9
+21,Allergic Rhinitis,Autoimmune,6,5
+22,Ulcerative Colitis,Autoimmune,63,7
+23,Bipolar Disorder,Other,12,8
+24,Bronchitis,Bacterial,31,6
+25,Stroke,Other,14,10
+26,Colorectal Cancer,Other,,8
+27,Hypertensive Heart Disease,Other,53,9
+28,Multiple Sclerosis,Other,,7
+29,Cerebral Palsy,Other,25,6
+30,Osteoporosis,Other,,6
+31,Pneumonia,Bacterial,,8
+32,Atherosclerosis,Other,29,8
+33,Chronic Obstructive Pulmonary Disease,Other,,7
+34,Epilepsy,Other,,7
+35,Hypertension,Other,25,6
+36,Obsessive-Compulsive Disorder,Other,7,5
+37,Psoriasis,Autoimmune,,7
+38,Rubella,Viral,94,6
+39,Cirrhosis,Other,128,8
+40,Conjunctivitis (Pink Eye),Other,,5
+42,Malaria,Viral,,9
+43,Spina Bifida,Genetic,,8
+45,Osteoarthritis,Other,,6
+46,Klinefelter Syndrome,Genetic,67,6
+47,Acne,Other,,4
+48,Brain Tumor,Other,,9
+49,Cystic Fibrosis,Genetic,,8
+50,Glaucoma,Other,69,7
+51,Rabies,Viral,,9
+52,Chickenpox,Viral,,6
+53,Coronary Artery Disease,Other,,8
+54,"Eating Disorders (Anorexia, Bulimia)",Other,,7
+55,Fibromyalgia,Other,,6
+56,Hemophilia,Genetic,,7
+57,Hypoglycemia,Other,8,5
+58,Lymphoma,Other,,8
+59,Tuberculosis,Bacterial,31,7
+60,Lung Cancer,Other,,9
+61,Hypothyroidism,Other,,6
+62,Autism Spectrum Disorder (ASD),Genetic,,7
+63,Crohn's Disease,Autoimmune,,8
+64,Hyperglycemia,Other,8,6
+65,Melanoma,Other,,7
+66,Ovarian Cancer,Other,,9
+67,Turner Syndrome,Genetic,,7
+68,Zika Virus,Viral,42,7
+69,Cataracts,Other,,5
+70,Pneumocystis Pneumonia (PCP),Other,,8
+71,Scoliosis,Genetic,,6
+72,Sickle Cell Anemia,Genetic,,9
+73,Tetanus,Bacterial,,7
+74,Anemia,Other,,5
+75,Cholera,Bacterial,,8
+76,Endometriosis,Autoimmune,,7
+77,Sepsis,Bacterial,,9
+78,Sleep Apnea,Other,,5
+79,Down Syndrome,Genetic,,6
+80,Ebola Virus,Viral,,10
+81,Lyme Disease,Bacterial,,8
+82,Pancreatic Cancer,Other,,9
+83,Pneumothorax,Other,,6
+84,Appendicitis,Bacterial,,7
+85,Esophageal Cancer,Other,,9
+86,HIV/AIDS,Viral,,10
+87,Marfan Syndrome,Genetic,,8
+88,Parkinson's Disease,Other,,9
+89,Hemorrhoids,Other,,4
+90,Polycystic Ovary Syndrome (PCOS),Other,,7
+91,Systemic Lupus Erythematosus,Autoimmune,,8
+92,Typhoid Fever,Bacterial,,7
+93,Breast Cancer,Other,,9
+94,Measles,Viral,,6
+95,Osteomyelitis,Bacterial,,7
+96,Polio,Viral,,10
+98,Liver Cancer,Other,128,9
+99,Prader-Willi Syndrome,Genetic,,7
+100,Thyroid Cancer,Other,,9
+102,Chronic Sinusitis,Other,21,6
+103,Gout,Autoimmune,,6
+104,Cervical Cancer,Other,,9
+105,Gallstones,Other,,7
+106,Tinnitus,Other,,6
+107,Shingles,Viral,,7
+108,Cystitis,Bacterial,,5
+109,Meningitis,Bacterial,,8
+110,Acute Lymphoblastic Leukemia (ALL),Other,,9
+111,Anorexia Nervosa,Other,,7
+112,Bulimia Nervosa,Other,,7
+113,Hemochromatosis,Genetic,,6
+114,Keloids,Other,,5
+115,Bipolar II Disorder,Other,23,7
+116,Sarcoidosis,Autoimmune,,7
+117,Lead Poisoning,Other,,7
+119,Celiac Disease,Autoimmune,,8
+120,Tinnitus,Other,,6
+121,Asperger Syndrome,Genetic,,6
+122,Ichthyosis,Genetic,,7
+123,Aplastic Anemia,Other,,7
+124,Ovarian Cyst,Other,,6
+125,Laryngitis,Other,,5
+126,Stomach Cancer,Other,,9
+127,Lymphadenopathy,Other,,6
+128,Hepatitis B,Viral,13,8
+129,Gallbladder Cancer,Other,,9
+130,Colon Cancer,Other,,9
+131,Whipple Disease,Other,,8
+132,Prostate Cancer,Other,,9
+133,Endometrial Cancer,Other,,9
+134,Pancreatic Insufficiency,Other,,8
+135,Non-Hodgkin Lymphoma,Other,,9
+136,Preeclampsia,Other,,7
+137,Ovarian Cancer,Other,,9
+138,Brain Cancer,Other,,8
+139,Covid19,Viral,,10
